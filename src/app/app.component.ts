@@ -76,6 +76,7 @@ export class AppComponent {
       }
     }
 
+
     this.filteredCountries = filtered;
   }
   getWeatherForCountry(country: any) {
